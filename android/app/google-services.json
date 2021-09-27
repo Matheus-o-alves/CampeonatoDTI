@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568318581217",
+    "project_id": "campeonato-app",
+    "storage_bucket": "campeonato-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568318581217:android:1b7609982e43e857a99aa0",
+        "android_client_info": {
+          "package_name": "com.example.campeonato_brasileiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568318581217-mhnv2kos96nca72srmlgt5ps1k1k7b3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNgmaVvihcLISLp3qs3kPTH_9iA2SEKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568318581217-mhnv2kos96nca72srmlgt5ps1k1k7b3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
